@@ -1,0 +1,2 @@
+npx tailwindcss -i ./static/core/input.css -o ./static/core/output.css --watch
+py manage.py runserver
